@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">journals</string>
+    <string name="action_settings">Settings</string>
+    <string name="splashscreen"><![CDATA[My Diary & Journals]]></string>
+</resources>
